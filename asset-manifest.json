@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/argoneuscze/xdueventcalc/static/css/main.d1b05096.chunk.css",
+    "main.js": "/argoneuscze/xdueventcalc/static/js/main.8f657734.chunk.js",
+    "main.js.map": "/argoneuscze/xdueventcalc/static/js/main.8f657734.chunk.js.map",
+    "runtime-main.js": "/argoneuscze/xdueventcalc/static/js/runtime-main.d5c636a8.js",
+    "runtime-main.js.map": "/argoneuscze/xdueventcalc/static/js/runtime-main.d5c636a8.js.map",
+    "static/js/2.8fafea9d.chunk.js": "/argoneuscze/xdueventcalc/static/js/2.8fafea9d.chunk.js",
+    "static/js/2.8fafea9d.chunk.js.map": "/argoneuscze/xdueventcalc/static/js/2.8fafea9d.chunk.js.map",
+    "index.html": "/argoneuscze/xdueventcalc/index.html",
+    "precache-manifest.8ec37e9a8d48418616db5cda2c88e95f.js": "/argoneuscze/xdueventcalc/precache-manifest.8ec37e9a8d48418616db5cda2c88e95f.js",
+    "service-worker.js": "/argoneuscze/xdueventcalc/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/argoneuscze/xdueventcalc/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.8fafea9d.chunk.js.LICENSE.txt": "/argoneuscze/xdueventcalc/static/js/2.8fafea9d.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/argoneuscze/xdueventcalc/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5c636a8.js",
+    "static/js/2.8fafea9d.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.8f657734.chunk.js"
+  ]
+}
